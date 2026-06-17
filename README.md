@@ -2,6 +2,10 @@
 
 Personal PowerShell 7 profile with performance caching, a custom Oh My Posh theme, and productivity utilities.
 
+## Preview
+
+![Terminal preview](assets/preview.png)
+
 ## Structure
 
 | Path | Purpose |
@@ -51,6 +55,6 @@ Conda and Oh My Posh init scripts are cached to disk and only regenerated when t
 
 ## Requirements
 
-- PowerShell 7+
+- [PowerShell 7+](https://github.com/PowerShell/PowerShell/releases/latest)
 - [Oh My Posh](https://ohmyposh.dev/)
-- Miniconda (optional)
+- [Miniconda](https://www.anaconda.com/download/success) (optional)
